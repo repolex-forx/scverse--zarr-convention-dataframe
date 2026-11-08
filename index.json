@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "zarr-convention-dataframe",
+  "versions": [
+    {
+      "commit": "0a4bb801402eceaeca359d4ea7e9a6b50d14a3ea",
+      "tag": "",
+      "parsed_at": "2026-11-08T10:34:22.905954+00:00"
+    }
+  ]
+}
